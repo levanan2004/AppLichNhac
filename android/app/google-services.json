@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "938380451297",
+    "firebase_url": "https://spa1m5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spa1m5",
+    "storage_bucket": "spa1m5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938380451297:android:d09045ed8fccd4d9be06a0",
+        "android_client_info": {
+          "package_name": "com.example.mypham1m5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBxtLllbfW90wRMXe97JPpKUDhjjsfKHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
