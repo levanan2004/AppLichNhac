@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "938380451297",
-    "firebase_url": "https://spa1m5-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "spa1m5",
-    "storage_bucket": "spa1m5.firebasestorage.app"
+    "project_number": "52012778547",
+    "firebase_url": "https://lich-571a3-default-rtdb.firebaseio.com",
+    "project_id": "lich-571a3",
+    "storage_bucket": "lich-571a3.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:938380451297:android:d09045ed8fccd4d9be06a0",
+        "mobilesdk_app_id": "1:52012778547:android:2a9b5905610f6e2f310f46",
         "android_client_info": {
           "package_name": "com.example.mypham1m5"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDBxtLllbfW90wRMXe97JPpKUDhjjsfKHU"
+          "current_key": "AIzaSyDf12OqgTt2gzwpIkrkr76nD-u0s9l9g78"
         }
       ],
       "services": {

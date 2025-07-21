@@ -41,53 +41,53 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBDNfWkkrNGLEFVoWDEJK6CU84s1BVLmyg',
-    appId: '1:938380451297:web:5939960061f917acbe06a0',
-    messagingSenderId: '938380451297',
-    projectId: 'spa1m5',
-    authDomain: 'spa1m5.firebaseapp.com',
-    databaseURL: 'https://spa1m5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'spa1m5.firebasestorage.app',
-    measurementId: 'G-Z4L1LWZJDH',
+    apiKey: 'AIzaSyA7XD6rZKPCj7zRCEkD3OSz_AuiRfEBSA8',
+    appId: '1:52012778547:web:3b7f463f69a1be79310f46',
+    messagingSenderId: '52012778547',
+    projectId: 'lich-571a3',
+    authDomain: 'lich-571a3.firebaseapp.com',
+    databaseURL: 'https://lich-571a3-default-rtdb.firebaseio.com',
+    storageBucket: 'lich-571a3.firebasestorage.app',
+    measurementId: 'G-J4R334K9HL',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDBxtLllbfW90wRMXe97JPpKUDhjjsfKHU',
-    appId: '1:938380451297:android:d09045ed8fccd4d9be06a0',
-    messagingSenderId: '938380451297',
-    projectId: 'spa1m5',
-    databaseURL: 'https://spa1m5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'spa1m5.firebasestorage.app',
+    apiKey: 'AIzaSyDf12OqgTt2gzwpIkrkr76nD-u0s9l9g78',
+    appId: '1:52012778547:android:2a9b5905610f6e2f310f46',
+    messagingSenderId: '52012778547',
+    projectId: 'lich-571a3',
+    databaseURL: 'https://lich-571a3-default-rtdb.firebaseio.com',
+    storageBucket: 'lich-571a3.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDtBPQR4KE2Uwh8m7tWfJIl7qOQ5683Y9s',
-    appId: '1:938380451297:ios:4b7aa42af47cac75be06a0',
-    messagingSenderId: '938380451297',
-    projectId: 'spa1m5',
-    databaseURL: 'https://spa1m5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'spa1m5.firebasestorage.app',
+    apiKey: 'AIzaSyBz2XJXLfwz3b-WBhymxwArfjGT1EsAO7o',
+    appId: '1:52012778547:ios:56de80d5b3b434ad310f46',
+    messagingSenderId: '52012778547',
+    projectId: 'lich-571a3',
+    databaseURL: 'https://lich-571a3-default-rtdb.firebaseio.com',
+    storageBucket: 'lich-571a3.firebasestorage.app',
     iosBundleId: 'com.example.mypham1m5',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDtBPQR4KE2Uwh8m7tWfJIl7qOQ5683Y9s',
-    appId: '1:938380451297:ios:4b7aa42af47cac75be06a0',
-    messagingSenderId: '938380451297',
-    projectId: 'spa1m5',
-    databaseURL: 'https://spa1m5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'spa1m5.firebasestorage.app',
+    apiKey: 'AIzaSyBz2XJXLfwz3b-WBhymxwArfjGT1EsAO7o',
+    appId: '1:52012778547:ios:56de80d5b3b434ad310f46',
+    messagingSenderId: '52012778547',
+    projectId: 'lich-571a3',
+    databaseURL: 'https://lich-571a3-default-rtdb.firebaseio.com',
+    storageBucket: 'lich-571a3.firebasestorage.app',
     iosBundleId: 'com.example.mypham1m5',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBDNfWkkrNGLEFVoWDEJK6CU84s1BVLmyg',
-    appId: '1:938380451297:web:5d6d5a9741879c4fbe06a0',
-    messagingSenderId: '938380451297',
-    projectId: 'spa1m5',
-    authDomain: 'spa1m5.firebaseapp.com',
-    databaseURL: 'https://spa1m5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'spa1m5.firebasestorage.app',
-    measurementId: 'G-7QKZHT8FQ1',
+    apiKey: 'AIzaSyA7XD6rZKPCj7zRCEkD3OSz_AuiRfEBSA8',
+    appId: '1:52012778547:web:3bbdcb2a1779b0ba310f46',
+    messagingSenderId: '52012778547',
+    projectId: 'lich-571a3',
+    authDomain: 'lich-571a3.firebaseapp.com',
+    databaseURL: 'https://lich-571a3-default-rtdb.firebaseio.com',
+    storageBucket: 'lich-571a3.firebasestorage.app',
+    measurementId: 'G-HNF1KHFM98',
   );
 }
